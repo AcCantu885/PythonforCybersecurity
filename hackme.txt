@@ -1,0 +1,8 @@
+#Asking the user the questions for writing files
+name = input("What is your name? ")
+favorite_color = input("What is your favorite color? ")
+first_pet = input("What was your first pet's name? ")
+mother_maiden_name = ("What is your mother's maiden name? ")
+elementary_school = ("What elementary school did you attend? ")
+
+#Print the user's answers
